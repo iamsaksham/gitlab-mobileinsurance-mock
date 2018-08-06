@@ -1,1 +1,1 @@
-console.log("wotke")
+console.log("mygif")

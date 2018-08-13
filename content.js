@@ -1,1 +1,1 @@
-console.log("owxwp")
+console.log("bosne")
